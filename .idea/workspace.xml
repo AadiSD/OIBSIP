@@ -4,29 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c2e6a3a-19b5-466b-96c0-426d00e99303" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OIBSIP/Random Password Generator.py" afterDir="false" />
+    <list default="true" id="1e1f6823-52dc-4b0b-b5f2-190d9c193fb5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OIBSIP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OIBSIP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OIBSIP/BMI calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OIBSIP/Random Password Generator.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2cxU6YpbqjFdwPZgRgylf6R98Ji" />
+  <component name="ProjectId" id="2czDcf2ZUUdOUUlYD792aKNwa6b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,13 +32,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.BMI calculator.executor": "Run",
-    "Python.Random Password Generator.executor": "Run",
-    "Python.Voice Assistant.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -54,11 +48,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c2e6a3a-19b5-466b-96c0-426d00e99303" name="Changes" comment="" />
-      <created>1709052548740</created>
+      <changelist id="1e1f6823-52dc-4b0b-b5f2-190d9c193fb5" name="Changes" comment="" />
+      <created>1709105595246</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709052548740</updated>
+      <updated>1709105595246</updated>
     </task>
     <servers />
   </component>
