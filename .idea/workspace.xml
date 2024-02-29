@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1e1f6823-52dc-4b0b-b5f2-190d9c193fb5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OIBSIP/BMI calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/OIBSIP/BMI calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OIBSIP/Basic Weather App.py" beforeDir="false" afterPath="$PROJECT_DIR$/OIBSIP/Basic Weather App.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OIBSIP/Random Password Generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/OIBSIP/Random Password Generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
