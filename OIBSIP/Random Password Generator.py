@@ -45,7 +45,6 @@ def generate_button_clicked():
 window = tk.Tk()
 window.title("Password Generator")
 
-# Set window size and center on screen
 window_width = 500
 window_height = 300
 screen_width = window.winfo_screenwidth()

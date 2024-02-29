@@ -41,7 +41,6 @@ def classify_bmi(bmi):
 root = tk.Tk()
 root.title("BMI Calculator")
 
-# Set window size and center it on the screen
 window_width = 300
 window_height = 200
 screen_width = root.winfo_screenwidth()

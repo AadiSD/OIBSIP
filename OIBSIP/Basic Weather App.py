@@ -42,7 +42,6 @@ def get_weather_button_clicked():
 window = tk.Tk()
 window.title("Weather App")
 
-# Set window size and center on screen
 window_width = 400
 window_height = 300
 screen_width = window.winfo_screenwidth()
